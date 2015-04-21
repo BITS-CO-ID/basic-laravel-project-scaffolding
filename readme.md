@@ -29,7 +29,8 @@ There are a few minor alterations from a standard Laravel installation. Most imp
 ```
 
 ## Getting Started
-**Prerequirements:** You must have [Node.js](https://nodejs.org/) installed on your system. You should also install Bower and Gulp globally (`npm install -g bower gulp`).
+**Prerequirements:** You must have [Composer](https://getcomposer.org/) and [Node.js](https://nodejs.org/) installed on your system. You should also install Bower and Gulp globally (`npm install -g bower gulp`).
 
-1. Install node packages with `npm install`. This will automatically run `bower install` and `gulp` once it has finished.
-2. Run `gulp watch` and start developing
+1. Run `composer update` to download and install composer packages
+2. Install node packages with `npm install`. This will automatically run `bower install` and `gulp` once it has finished.
+3. Run `gulp watch` and start developing
