@@ -31,6 +31,5 @@ These are the alterations from a standard Laravel installation.
 ## Getting Started
 **Prerequirements:** You should install Bower and Gulp globally (`npm install -g bower gulp`).
 
-1. Install node packages with `npm install`
-2. Install bower components with `bower install`
-3. Run `gulp watch` and start developing
+1. Install node packages with `npm install`. This will automatically run `bower install` and `gulp` once it has finished.
+2. Run `gulp watch` and start developing
