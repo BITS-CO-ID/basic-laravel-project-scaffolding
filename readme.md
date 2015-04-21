@@ -2,10 +2,10 @@
 Basic Laravel project scaffolding with Gulp, Bower, LESS, &amp; Bootstrap.
 
 ## Overview
-This project helps speed up the process of setting up a simple Laravel project. It configures Bower, Gulp, and Bootstrap automatically in a maintainable way. It strives to keep vendor files seperate from project files and uses best practices.
+This project helps speed up the process of setting up a simple Laravel project. It configures Bower, Gulp, and Bootstrap automatically in a maintainable way. It strives to keep vendor files seperate from project files and uses programming best practices where possible.
 
 ## Project Tree
-These are the alterations from a standard Laravel installation.
+There are a few alterations from a standard Laravel installation:
 
 ```
 .
