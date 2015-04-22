@@ -9,13 +9,14 @@ There are a few minor alterations from a standard Laravel installation. Most imp
 
 ```
 .
-├── assets
-|   ├── js
-|   |   └── application.js
-|   └── less
-|       ├── application.less
-|		├── bootstrap.less
-|       └── variables.less
+├── resources
+|   └── assets
+|   	├── js
+|   	|   └── application.js
+|   	└── less
+|       	├── application.less
+|			├── bootstrap.less
+|       	└── variables.less
 |
 ├── public
 |   └── assets
